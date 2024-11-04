@@ -11,10 +11,6 @@
         "src": "/(.*)",
         "dest": "index.php"
       }
-    ],
-    "env": {
-      "YOUR_ENV_VARIABLE": "your_value"
-    },
-    "regions": ["all"]
+    ]
   }
   
